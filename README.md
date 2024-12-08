@@ -1,3 +1,7 @@
+
+![Screenshot (104)](https://github.com/user-attachments/assets/a1f77ad3-721e-4cce-88d7-ee76a085b11a)
+
+
 ***Tiling Manager***: GlazeWM
 https://github.com/glzr-io/glazewm
 
