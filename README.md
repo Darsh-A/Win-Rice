@@ -31,8 +31,9 @@ Spotify: https://github.com/spicetify/spicetify-themes/tree/master/text
 (*Needs Spicetify)
 
 ***Discord***: Config in the repo
-(*Needs BetterDiscord) [A work in progress, still might be buggy, feel free to change the colors and settings in the config]
-![image](https://github.com/user-attachments/assets/38f1644b-79c0-47f9-baa7-08e2f3333a0d)
+(*Needs BetterDiscord) 
+https://github.com/Darsh-A/discord
+![image](https://i.imgur.com/MWGPMDU.png)
 
 
 
